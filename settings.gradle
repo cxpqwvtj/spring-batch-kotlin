@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'kotlin-batch'
+rootProject.name = 'spring-batch-kotlin'
